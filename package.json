@@ -1,0 +1,29 @@
+{
+  "name": "lab7-sergi-papinashvili",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "buildw": "watchify --entry index.js -o bundle.js -t [ babelify --presets [ @babel/preset-env] ] –v",
+    "build": "browserify --entry index.js --outfile bundle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICT37008G1-LBK-fall-2018/lab7-Sergi-Papinashvili.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ICT37008G1-LBK-fall-2018/lab7-Sergi-Papinashvili/issues"
+  },
+  "homepage": "https://github.com/ICT37008G1-LBK-fall-2018/lab7-Sergi-Papinashvili#readme",
+  "devDependencies": {
+    "@babel/core": "^7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "babelify": "^10.0.0"
+  },
+  "dependencies": {
+    "jQuery": "^1.7.4"
+  }
+}
