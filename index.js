@@ -1,3 +1,5 @@
-$(':button').click(function () {
-	$('p').css('background-color', '#000').css('color', '#fff');
-});
+const $ = require("jQuery");
+
+$(".btn").click(function(){
+ 	$("body").css("background-color", "red");
+})
