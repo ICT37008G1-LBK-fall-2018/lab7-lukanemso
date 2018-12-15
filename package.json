@@ -1,5 +1,5 @@
 {
-  "name": "zura",
+  "name": "sergi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,17 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ICT37008G1-LBK-fall-2018/lab7-Davidtsiklauri.git"
+    "url": "git+https://github.com/ICT37008G1-LBK-fall-2018/lab7-Sergi-Papinashvili.git"
   },
   "keywords": [
     "#zuraspage"
   ],
-  "author": "David",
+  "author": "Sergi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ICT37008G1-LBK-fall-2018/lab7-Davidtsiklauri/issues"
+    "url": "https://github.com/ICT37008G1-LBK-fall-2018/lab7-Sergi-Papinashvili/issues"
   },
-  "homepage": "https://github.com/ICT37008G1-LBK-fall-2018/lab7-Davidtsiklauri#readme",
+  "homepage": "https://github.com/ICT37008G1-LBK-fall-2018/lab7-Sergi-Papinashvili#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "jquery": "^3.3.1"
