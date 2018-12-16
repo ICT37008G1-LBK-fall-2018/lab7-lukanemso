@@ -1,5 +1,5 @@
 {
-  "name": "sergi",
+  "name": "luka",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ICT37008G1-LBK-fall-2018/lab7-Sergi-Papinashvili.git"
+    "url": "git+https://github.com/ICT37008G1-LBK-fall-2018/lab7-lukanemso.git"
   },
   "keywords": [
     "#zuraspage"
@@ -19,9 +19,9 @@
   "author": "Sergi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ICT37008G1-LBK-fall-2018/lab7-Sergi-Papinashvili/issues"
+    "url": "https://github.com/ICT37008G1-LBK-fall-2018/lab7-lukanemso/issues"
   },
-  "homepage": "https://github.com/ICT37008G1-LBK-fall-2018/lab7-Sergi-Papinashvili#readme",
+  "homepage": "https://github.com/ICT37008G1-LBK-fall-2018/lab7-lukanemso#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "jquery": "^3.3.1"
